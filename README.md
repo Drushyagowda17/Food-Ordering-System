@@ -7,7 +7,7 @@ A production-ready food ordering web application built with Python Flask and SQL
 You can clone the project using the following Git command:
 
 ```bash
-git clone https://github.com/Drushyagowda17/Food-Ordeing-System.git
+git clone https://github.com/Drushyagowda17/Food-Ordering-System.git
 Or visit the GitHub repository here: Drushyagowda17/Food-Ordeing-System
 
 🌟 Features
